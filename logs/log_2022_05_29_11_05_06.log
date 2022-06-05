@@ -1,0 +1,19 @@
+2022-05-29 17:11:06,061  INFO [main] Runner:28 -  <------------------------------ GET Request API Details ------------------------------>
+2022-05-29 17:11:12,000  INFO [main] Runner:47 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqamaanddob Status Code : 200
+2022-05-29 17:11:12,001  INFO [main] Runner:48 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqamaanddob Response Time : 4415 ms
+2022-05-29 17:11:14,573  INFO [main] Runner:47 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqama Status Code : 200
+2022-05-29 17:11:14,574  INFO [main] Runner:48 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqama Response Time : 2518 ms
+2022-05-29 17:11:16,115  INFO [main] Runner:47 - https://api.alrajhitakaful.com/dcp_b_getnationaladdress/addressbyid Status Code : 200
+2022-05-29 17:11:16,116  INFO [main] Runner:48 - https://api.alrajhitakaful.com/dcp_b_getnationaladdress/addressbyid Response Time : 1491 ms
+2022-05-29 17:11:18,402  INFO [main] Runner:47 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobycustom Status Code : 200
+2022-05-29 17:11:18,402  INFO [main] Runner:48 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobycustom Response Time : 2244 ms
+2022-05-29 17:11:20,799  INFO [main] Runner:47 - https://api.alrajhitakaful.com/dcp_bonusmalusclass/htpfactor Status Code : 200
+2022-05-29 17:11:20,799  INFO [main] Runner:48 - https://api.alrajhitakaful.com/dcp_bonusmalusclass/htpfactor Response Time : 2358 ms
+2022-05-29 17:11:23,522  INFO [main] Runner:47 - https://api.alrajhitakaful.com/dcp_ncdeligibility/op_ncdeligiblity Status Code : 200
+2022-05-29 17:11:23,522  INFO [main] Runner:48 - https://api.alrajhitakaful.com/dcp_ncdeligibility/op_ncdeligiblity Response Time : 2683 ms
+2022-05-29 17:11:25,475  INFO [main] Runner:47 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobysequence Status Code : 200
+2022-05-29 17:11:25,476  INFO [main] Runner:48 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobysequence Response Time : 1915 ms
+2022-05-29 17:11:27,682  INFO [main] Runner:47 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/citizeninfo Status Code : 200
+2022-05-29 17:11:27,683  INFO [main] Runner:48 - https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/citizeninfo Response Time : 2165 ms
+2022-05-29 17:11:29,178  INFO [main] Runner:47 - https://api.alrajhitakaful.com/vehiclemakemodel-master Status Code : 401
+2022-05-29 17:11:29,179  INFO [main] Runner:48 - https://api.alrajhitakaful.com/vehiclemakemodel-master Response Time : 1456 ms
